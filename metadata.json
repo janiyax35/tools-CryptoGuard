@@ -1,0 +1,5 @@
+{
+  "name": "CryptoGuard AI",
+  "description": "A secure, client-side encryption suite featuring AES file encryption, educational ciphers, and hash integrity checking, enhanced with Gemini AI for real-time cryptographic explanations.",
+  "requestFramePermissions": []
+}
